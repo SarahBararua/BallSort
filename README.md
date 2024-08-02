@@ -1,2 +1,2 @@
 # BallSort
-![diagramadeclasses](https://github.com/user-attachments/assets/04079a1d-42e0-431c-b943-4c0ddb7a0878)
+![diagramadeclasses](https://github.com/user-attachments/assets/4fdbbfa2-d2f3-4ba9-92a3-5b7096e92028)
